@@ -51,9 +51,9 @@ mvn gatling:test
 ```
 Podemos ver los resultados al final de la ejecución del test, con un link a los graficos
 
-![](/docs/img/link_test_result.jpg)
+![](https://github.com/ewatemberg/poc-springmvc-springwebflux-springmvc_vt/blob/main/poc-spring-webflux/docs/img/link_test_result.jpg)
 
-![](/docs/img/test_result.jpg)
+![](https://github.com/ewatemberg/poc-springmvc-springwebflux-springmvc_vt/blob/main/poc-spring-webflux/docs/img/test_result.jpg)
 
 ### Troubleshooting
 
@@ -67,4 +67,4 @@ Si usan [jconsole](https://web.mit.edu/java_v1.5.0_22/distrib/share/docs/guide/m
 -Djava.rmi.server.hostname=127.0.0.1
 ```
 
-![](/docs/img/jconsole.jpg)
+![](https://github.com/ewatemberg/poc-springmvc-springwebflux-springmvc_vt/blob/main/poc-spring-webflux/docs/img/jconsole.jpg)
